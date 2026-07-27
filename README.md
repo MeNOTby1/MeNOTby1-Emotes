@@ -6,7 +6,7 @@ Custom Emotecraft animations and projects made with Blockbench and Note Block St
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Download](#download)
+* [Emotes](#emotes)
 * [Installation](#installation)
 * [Requirements](#requirements)
 * [Credit & License](#credit--license)
@@ -18,11 +18,12 @@ Welcome to my custom Emotecraft repository! This space is dedicated to sharing u
 
 ---
 
-## Download
-You can get the latest ready-to-use .emote files right here:
-1. Navigate to the Releases section on the right side of this repository.
-2. Download the latest .zip or individual .emote files from the assets.
-3. Alternative: You can manually browse the emotes/ folder in the main code branch and download individual files.
+## Emotes
+Here you can find the list of available custom emotes and their release dates. Click on an emote name to browse its folder:
+
+| Emotes | Date | Supported Version |
+| :--- | :--- | :--- 
+| [King Nasir](Emotes/King%20Nasir/) | 27.07.2026 | 1.16.5 - 26.2 |
 
 ---
 
