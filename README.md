@@ -8,13 +8,12 @@ Custom Emotecraft animations and projects made with Blockbench and Note Block St
 * [Introduction](#introduction)
 * [Emotes](#emotes)
 * [Installation](#installation)
-* [Requirements](#requirements)
 * [Credit & License](#credit--license)
 
 ---
 
 ## Introduction
-Welcome to my custom Emotecraft repository! This space is dedicated to sharing unique animations, models, and musical sync projects designed to enhance multiplayer experiences in Minecraft. All models and movements are meticulously crafted using Blockbench and Minecraft Note Block Studio.
+This reposity inspired by [Redlance Emotes](https://emotes.redlance.org/). Not all the emotes are perfect, but I'm trying to make them as good as I can.
 
 ---
 
@@ -29,19 +28,10 @@ Here you can find the list of available custom emotes and their release dates. C
 
 ## Installation
 To use these emotes in your game, follow these simple steps:
-1. Ensure you have the Emotecraft mod installed on your Minecraft client.
-2. Launch the game at least once with the mod to generate its folders.
-3. Place the downloaded .emote files into your .minecraft/config/emotecraft/ directory.
-4. Open your game, press the Emotecraft menu key (default is usually B), and bind your new animations to your preferred keys!
-
----
-
-## Requirements
-To fully enjoy and use these files, you will need:
-* Minecraft (Compatible version matching your mod loader)
-* Emotecraft Mod (Fabric / Forge / NeoForge)
-* Blockbench (Optional) - Only required if you want to inspect or modify the project source files.
-* Minecraft Note Block Studio (Optional) - Only required if you want to edit the musical components.
+1. Select an emote and click on it.
+2. Download .json (emote), .nbs (music) and .png (cover) files
+3. Place the downloaded files into your .minecraft/emotes directory.
+4. Open your game, press the Emote Wheel key (default is usually B), and bind your new animations.
 
 ---
 
