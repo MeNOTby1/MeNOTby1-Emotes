@@ -20,10 +20,11 @@ This reposity inspired by [Redlance Emotes](https://emotes.redlance.org/). Not a
 ## Emotes
 Here you can find the list of available custom emotes and their release dates. Click on an emote name to browse its folder:
 
-| Emotes | Date | Supported Version | Recommended Version |
+| Emotes | Date | Recommended Version | Music |
 | :--- | :--- | :--- | :--- |
-| [King Nasir](Emotes/King%20Nasir/) | 27.07.2026 | 1.16.5 - 26.2 | 1.21.1 - 1.21.7 |
-| [Dexter Running](Emotes/Dexter%20Running) | 28.07.2026 | 1.16.5 - 26.2 | 1.21 - 26.2 |
+| [King Nasir](Emotes/King%20Nasir/) | 27.07.2026 | 1.21.1 - 1.21.7 | Yes |
+| [Dexter Running](Emotes/Dexter%20Running) | 28.07.2026 | 1.21 - 26.2 | Yes |
+| [Goofy](Emotes/Goofy) | 28.07.2026 | 1.16.5 | 1.21 - 26.2 | No |
 
 ---
 
