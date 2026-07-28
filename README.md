@@ -23,7 +23,7 @@ Here you can find the list of available custom emotes and their release dates. C
 | Emotes | Date | Supported Version |
 | :--- | :--- | :--- 
 | [King Nasir](Emotes/King%20Nasir/) | 27.07.2026 | 1.16.5 - 26.2 |
-| *Dexter Running* | *28.07.2026* | *Not Tested* |
+| [Dexter Running](Emotes/Dexter%20Running) | 28.07.2026 | *Not Tested* |
 
 ---
 
