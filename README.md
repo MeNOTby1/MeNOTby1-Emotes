@@ -23,13 +23,14 @@ Here you can find the list of available custom emotes and their release dates. C
 | Emotes | Date | Supported Version |
 | :--- | :--- | :--- 
 | [King Nasir](Emotes/King%20Nasir/) | 27.07.2026 | 1.16.5 - 26.2 |
+| *Dexter Running* | *28.07.2026* | *Not Tested* |
 
 ---
 
 ## Installation
 To use these emotes in your game, follow these simple steps:
 1. Select an emote and click on it.
-2. Download .json (emote), .nbs (music) and .png (cover) files
+2. Download .json (emote), .nbs (music) and .png (cover) files.
 3. Place the downloaded files into your .minecraft/emotes directory.
 4. Open your game, press the Emote Wheel key (default is usually B), and bind your new animations.
 
