@@ -24,7 +24,7 @@ Here you can find the list of available custom emotes and their release dates. C
 | :--- | :--- | :--- | :--- |
 | [King Nasir](Emotes/King%20Nasir/) | 27.07.2026 | 1.21.1 - 1.21.7 | Yes |
 | [Dexter Running](Emotes/Dexter%20Running) | 28.07.2026 | 1.21 - 26.2 | Yes |
-| [Goofy](Emotes/Goofy) | 28.07.2026 | 1.21 - 26.2 | No |
+| [Goofy](Emotes/Goofy) | 28.07.2026 | 1.21.4 - 26.2 | No |
 | Caramelldansen | Upcoming | Not Tested |  |
 | IbraTV | Upcoming | Not Tested |  |
 
