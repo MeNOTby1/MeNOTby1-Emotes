@@ -18,13 +18,13 @@ This reposity inspired by [Redlance Emotes](https://emotes.redlance.org/). Not a
 ---
 
 ## Emotes
-Here you can find the list of available custom emotes and their release dates. Click on an emote name to browse its folder:
+Here you can find the list of available custom emotes and their release dates.
 
 | Emotes | Date | Recommended Version | Music |
 | :--- | :--- | :--- | :--- |
-| [King Nasir](Emotes/King%20Nasir/) | 27.07.2026 | 1.21.1 - 1.21.7 | Yes |
-| [Dexter Running](Emotes/Dexter%20Running) | 28.07.2026 | 1.21 - 26.2 | Yes |
-| [Goofy](Emotes/Goofy) | 28.07.2026 | 1.21.4 - 26.2 | No |
+| [King Nasir](https://emotes.redlance.org/emote/019fad71-1fce-7264-8c77-d9077ea1adc8) | 27.07.2026 | 1.21.1 - 1.21.7 | Yes |
+| [Dexter Running](https://emotes.redlance.org/emote/019fae1f-b3e1-75c9-87e6-cd8e4fcaba89) | 28.07.2026 | 1.21 - 26.2 | Yes |
+| [Goofy](https://emotes.redlance.org/emote/019fae20-009a-7344-b5c5-1014a15f6551) | 28.07.2026 | 1.21.4 - 26.2 | No |
 | Caramelldansen | Upcoming | Not Tested |  |
 | IbraTV | Upcoming | Not Tested |  |
 
