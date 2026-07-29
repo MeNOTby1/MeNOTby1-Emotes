@@ -35,21 +35,21 @@ Here you can find the list of available custom emotes.
   </thead>
   <tbody>
     <tr>
-      <td><a href="link-adresi">King Nasir</a></td>
+      <td><a href="https://emotes.redlance.org/emote/019fad71-1fce-7264-8c77-d9077ea1adc8">King Nasir</a></td>
       <td><a href="Emotes/king-nasir.emotecraft">king-nasir.emotecraft</a></td>
       <td>27.07.2026</td>
       <td>1.21.1 - 1.21.7</td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><a href="link-adresi">Dexter Running</a></td>
+      <td><a href="https://emotes.redlance.org/emote/019fae1f-b3e1-75c9-87e6-cd8e4fcaba89">Dexter Running</a></td>
       <td><a href="Emotes/dexter-running.emotecraft">dexter-running.emotecraft</a></td>
       <td>28.07.2026</td>
       <td>1.21 - 26.2</td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><a href="link-adresi">Goofy</a></td>
+      <td><a href="https://emotes.redlance.org/emote/019fae20-009a-7344-b5c5-1014a15f6551">Goofy</a></td>
       <td><a href="Emotes/goofy.emotecraft">goofy.emotecraft</a></td>
       <td>28.07.2026</td>
       <td>1.21.4 - 26.2</td>
