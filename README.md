@@ -18,15 +18,60 @@ This reposity inspired by [Redlance Emotes](https://emotes.redlance.org/). Not a
 ---
 
 ## Emotes
-Here you can find the list of available custom emotes and their release dates.
+Here you can find the list of available custom emotes.
 
-| Emotes | Date | Recommended Version | Music |
-| :--- | :--- | :--- | :--- |
-| [King Nasir](https://emotes.redlance.org/emote/019fad71-1fce-7264-8c77-d9077ea1adc8) | 27.07.2026 | 1.21.1 - 1.21.7 | Yes |
-| [Dexter Running](https://emotes.redlance.org/emote/019fae1f-b3e1-75c9-87e6-cd8e4fcaba89) | 28.07.2026 | 1.21 - 26.2 | Yes |
-| [Goofy](https://emotes.redlance.org/emote/019fae20-009a-7344-b5c5-1014a15f6551) | 28.07.2026 | 1.21.4 - 26.2 | No |
-| Caramelldansen | Upcoming | Not Tested |  |
-| IbraTV | Upcoming | Not Tested |  |
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" align="center">Emotes</th>
+      <th align="center" rowspan="2">Date</th>
+      <th align="center" rowspan="2">Recommended Version</th>
+      <th align="center" rowspan="2">Music</th>
+    </tr>
+    <tr>
+      <th align="center"><a href="https://emotes.redlance.org/author/MeNOTby0">Web</a></th>
+      <th align="center"><a href="Emotes">Github</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="link-adresi">King Nasir</a></td>
+      <td><a href="Emotes/king-nasir.emotecraft">king-nasir.emotecraft</a></td>
+      <td>27.07.2026</td>
+      <td>1.21.1 - 1.21.7</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><a href="link-adresi">Dexter Running</a></td>
+      <td><a href="Emotes/dexter-running.emotecraft">dexter-running.emotecraft</a></td>
+      <td>28.07.2026</td>
+      <td>1.21 - 26.2</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><a href="link-adresi">Goofy</a></td>
+      <td><a href="Emotes/goofy.emotecraft">goofy.emotecraft</a></td>
+      <td>28.07.2026</td>
+      <td>1.21.4 - 26.2</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Caramelldansen</td>
+      <td>caramelldansen.emotecraft</td>
+      <td>Upcoming</td>
+      <td>Not Tested</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>IbraTV</td>
+      <td>ibratv.emotecraft</td>
+      <td>Upcoming</td>
+      <td>Not Tested</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
