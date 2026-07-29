@@ -78,8 +78,8 @@ Here you can find the list of available custom emotes.
 ## Installation
 To use these emotes in your game, follow these simple steps:
 1. Select an emote and click on it.
-2. Download .json (emote), .nbs (music) and .png (cover) files.
-3. Place the downloaded files into your .minecraft/emotes directory.
+2. Download .emotecraft file.
+3. Place the downloaded file(s) into your .minecraft/emotes directory.
 4. Open your game, press the Emote Wheel key (default is usually B), and bind your new animations.
 
 ---
