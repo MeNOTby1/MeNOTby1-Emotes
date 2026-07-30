@@ -56,18 +56,11 @@ Here you can find the list of available custom emotes.
       <td>No</td>
     </tr>
     <tr>
-      <td>Caramelldansen</td>
-      <td>caramelldansen.emotecraft</td>
-      <td>Upcoming</td>
+      <td><a href="https://emotes.redlance.org/emote/019fb27a-0902-7043-8bc5-c66b8590ca7e">IbraTV</td>
+      <td><a href="Emotes/ibratv.emotecraft">ibratv.emotecraft</td>
+      <td>30.07.2026</td>
       <td>Not Tested</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>IbraTV</td>
-      <td>ibratv.emotecraft</td>
-      <td>Upcoming</td>
-      <td>Not Tested</td>
-      <td></td>
+      <td>Yes</td>
     </tr>
   </tbody>
 </table>
