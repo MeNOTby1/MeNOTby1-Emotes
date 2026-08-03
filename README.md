@@ -68,14 +68,6 @@ Here you can find the list of available custom emotes.
       <td><a href="https://www.instagram.com/p/DaunjB7Ib0_/">Click!</a></td>
     </tr>
     <tr>
-      <td>MrBeast</td>
-      <td>mrbeast.emotecraft</td>
-      <td>Not released</td>
-      <td>Not Tested</td>
-      <td>No</td>
-      <td><a href="https://www.instagram.com/p/DbjfaJDuDHe/">Click!</a></td>
-    </tr>
-    <tr>
       <td>Babe You Bugging</td>
       <td>babe-you-bugging.emotecraft</td>
       <td>Not released</td>
