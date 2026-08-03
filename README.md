@@ -13,7 +13,7 @@ Custom Emotecraft animations and projects made with Blockbench and Note Block St
 ---
 
 ## Introduction
-This reposity inspired by [Redlance Emotes](https://emotes.redlance.org/). Not all the emotes are perfect, but I'm trying to make them as good as I can.
+This reposity and all emotes, musics and covers made by me. Not all the emotes are perfect, but I'm trying to make them as good as I can.
 
 ---
 
@@ -30,7 +30,7 @@ Here you can find the list of available custom emotes.
       <th align="center" rowspan="2">Video</th>
     </tr>
     <tr>
-      <th align="center"><a href="https://emotes.redlance.org/author/MeNOTby0">Web</a></th>
+      <th align="center"><a href="https://emotes.redlance.org/author/MeNOTby0">Redlance</a></th>
       <th align="center"><a href="Emotes">Github</a></th>
     </tr>
   </thead>
